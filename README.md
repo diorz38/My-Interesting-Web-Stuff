@@ -7,4 +7,4 @@
 
 #### Laravel Tips&Trick
 
-- Display Table current page in blade {{ $table->currentpage() }}
+- Display Table current page in blade `{{ $table->currentpage() }}`
